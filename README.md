@@ -6,9 +6,8 @@ Aplikasi **Streamlit** untuk memprediksi estimasi gaji IT di Indonesia berbasis 
 
 ---
 
-## Demo
-- Local: `http://localhost:8501`
-- Deploy (Streamlit Community Cloud): `https://<app-name>.streamlit.app` (isi setelah kamu deploy)
+## Live Demo
+- AI-Predicts-Indonesian-IT-Salaries (Streamlit Community Cloud: `https://ai-predicts-indonesian-it-salaries.streamlit.app/`
 
 ---
 
